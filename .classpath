@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/byte-buddy-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/client-combined-3.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/client-combined-3.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/gson-2.8.4.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/ant-1.6.5.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/bcprov-jdk15-135.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/org.mortbay.jetty-5.1.10.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/selenium-core-1.0-20080914.225453.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/selenium-server-1.0-20081010.060147.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/selenium-server-coreless-1.0-20081010.060147.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSeleniumPlayground/Facebook/CommanJarFiles/servlet-api-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Local Downloads/jar_files.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/bcpkix-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/bcprov-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/docker-java-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/docker-java-api-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/docker-java-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/docker-java-transport-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/docker-java-transport-httpclient5-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/httpclient5-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/httpcore5-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/httpcore5-h2-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/jna-5.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/slf4j-api-2.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Testing/WebdriverManager/webdrivermanager-5.3.3.jar"/>
+	<classpathentry exported="true" kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

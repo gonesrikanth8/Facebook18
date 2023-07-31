@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="ChromeTest(failed)">
+    <classes>
+      <class name="DriverFactory.test">
+        <methods>
+          <include name="Launc1"/>
+          <include name="Launc"/>
+        </methods>
+      </class> <!-- DriverFactory.test -->
+      <class name="DriverFactory.Chrome">
+        <methods>
+          <include name="Launc1"/>
+          <include name="Launc"/>
+        </methods>
+      </class> <!-- DriverFactory.Chrome -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
